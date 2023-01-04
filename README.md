@@ -1,4 +1,4 @@
-# bitcoin_api_bot - Биткоин бот, который взаимодействует с API
+# bitcoin_api_bot - Телеграм биткоин бот, который взаимодействует с API
 
 ## Стек используемых технологий
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
